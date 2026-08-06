@@ -1,3 +1,0 @@
-Pythonic binding for Linux's hidraw ioctls.
-
-Python 3.10+ required, use version 1.2 if support for older Python versions is needed

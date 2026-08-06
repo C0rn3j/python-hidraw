@@ -32,7 +32,7 @@ dependencies = [
 Homepage = "https://github.com/vpelletier/python-hidraw"
 
 [tool.setuptools.packages.find]
-include = ["hidraw*"]
+include = ["hidraw_pure*"]
 
 [tool.ruff]
 line-length = 80
